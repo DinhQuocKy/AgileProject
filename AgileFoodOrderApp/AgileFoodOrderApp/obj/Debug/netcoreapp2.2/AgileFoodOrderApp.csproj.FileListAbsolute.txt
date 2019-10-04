@@ -1,0 +1,14 @@
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\bin\Debug\netcoreapp2.2\AgileFoodOrderApp.deps.json
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\bin\Debug\netcoreapp2.2\AgileFoodOrderApp.runtimeconfig.json
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\bin\Debug\netcoreapp2.2\AgileFoodOrderApp.runtimeconfig.dev.json
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\bin\Debug\netcoreapp2.2\AgileFoodOrderApp.dll
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\bin\Debug\netcoreapp2.2\AgileFoodOrderApp.pdb
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.csprojAssemblyReference.cache
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.csproj.CoreCompileInputs.cache
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.RazorAssemblyInfo.cache
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.RazorAssemblyInfo.cs
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.AssemblyInfoInputs.cache
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.AssemblyInfo.cs
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.RazorTargetAssemblyInfo.cache
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.dll
+D:\Agile\AgileFoodOrderApp\AgileFoodOrderApp\obj\Debug\netcoreapp2.2\AgileFoodOrderApp.pdb
